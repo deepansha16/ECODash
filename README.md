@@ -1,5 +1,7 @@
 # ECODash
-An interactive dashboard coded purely in Python, utilizing Plotly's interactive graphs and deployed as a web app using Dash
+
+An interactive dashboard coded purely in Python, utilizing Plotly's interactive graphs and deployed as a web app using Dash, whose aim is to investigate various socio-economic indicators and economic trends in order to gain insights into the relationships and patterns within different countries within Europe
+
 
 Makes use of data from OECD: https://www.oecd.org/switzerland/, taking into consideration the following socio-economic indicators:
 
