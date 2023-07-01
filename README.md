@@ -3,6 +3,7 @@ An interactive dashboard coded purely in Python, utilizing Plotly's interactive 
 
 Makes use of data from OECD: https://www.oecd.org/switzerland/, taking into consideration the following economic indicators:
 
+### Inflation
 
 ## Demo of the First Dashboard
 
