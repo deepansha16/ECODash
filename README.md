@@ -35,7 +35,7 @@ The dashboard is designed to cater towards countries under Europe, notable examp
 
 
 
-## Demo of the First Dashboard
+## Main Dashboard
 
 - Two dropdowns have been implemented in the first board, one is for selecting the country ( all of which belong to the European continent), and second is for a more fine-grained analysis including the Year ( we have data from around 10 years to track evolution across different socio and economic indicators).
 
@@ -45,10 +45,15 @@ The dashboard is designed to cater towards countries under Europe, notable examp
 https://github.com/deepansha16/ECODash/assets/49023785/9fa7f05b-ebe2-41c1-aebf-361527aa8228
 
 
-## Demo of the Second Dashboard
+## Time Series Dashboard
 
 - The second dashboard caters offers a time series view, providing a intriguing combo of a scatter plot and line plots, where on the left you select the first indicator you want to consider, and on the right the second indicator to be compared with.
 
 - A linear and log scale has been provided for more precise result
 
 - Hovering over the countries on the scatter plot produces the data for the indicators over a decade on the adjacent line plot, so for example on selecting  `Imports` and `Exports`, and clicking on `Austria`, will fetch you the comparison line plot for the two indicators.
+
+
+
+https://github.com/deepansha16/ECODash/assets/49023785/f72c7790-32f3-4b9e-b916-e4f1a2e3e8c1
+
