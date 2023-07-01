@@ -8,5 +8,7 @@ Makes use of data from OECD: https://www.oecd.org/switzerland/, taking into cons
 
 - Two dropdowns have been implemented in the dash, one is for selecting the country ( all of which belong to the European continent), and second is for a more fine-grained analysis including the Year ( we have data from around 10 years to track evolution across different socio and economic indicators).
 
-https://github.com/deepansha16/ECODash/assets/49023785/c16feab3-dbdf-413f-97d8-c962c9e24426
+
+https://github.com/deepansha16/ECODash/assets/49023785/9fa7f05b-ebe2-41c1-aebf-361527aa8228
+
 
