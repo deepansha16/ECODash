@@ -3,21 +3,21 @@ An interactive dashboard coded purely in Python, utilizing Plotly's interactive 
 
 Makes use of data from OECD: https://www.oecd.org/switzerland/, taking into consideration the following socio-economic indicators:
 
-### Inflation
-### Poverty
-### Unemployment
-### GNI (Gross National Income)
-### Household Wealth
-### Imports
-### Exports
-### Life Expectancy
-### Fertility Rates
-### Native Women Unemployment
-### Native Men Unemployment
-### Nominal House Prices (meaning: nominal house prices for purchasing, not adjusted for inflation)
-### Nominal Rent Prices
-### Household Savings
-### Population
+- Inflation
+- Poverty
+- Unemployment
+- GNI (Gross National Income)
+- Household Wealth
+- Imports
+- Exports
+- Life Expectancy
+- Fertility Rates
+- Native Women Unemployment
+- Native Men Unemployment
+- Nominal House Prices (meaning: nominal house prices for purchasing, not adjusted for inflation)
+- Nominal Rent Prices
+- Household Savings
+- Population
 
 The dashboard is designed to cater towards countries under Europe, notable examples being Austria, Switzerland, France, Germany, Italy and many more. It makes use of Plotly's graphical visualizations to compare across different indicators, and derive answers to certain research questions, few of which are highlighted below:
 
